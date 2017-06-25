@@ -1,0 +1,43 @@
+baseurl = "/"
+relativeurls = true
+languageCode = "en-us"
+title = "Claudia Vitolo's website"
+theme = "hugo-theme-learn"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+publishDir = "docs"
+
+[outputs]
+    home = [ "HTML", "RSS", "JSON"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About me"
+    url = "/about/"
+[[menu.main]]
+    name = "Blog"
+    url = "/post/"
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+[[menu.main]]
+    name = "Talks"
+    url = "/talk/"
+
+[params]
+    description = "A website built through Hugo and blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.10.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"

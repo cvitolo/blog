@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on Claudia Vitolo&#39;s website</title>
+    <link>/</link>
+    <description>Recent content in Index on Claudia Vitolo&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Header</title>
+      <link>/_header/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/_header/</guid>
+      <description>Claudia Vitolo&amp;rsquo;s personal website</description>
+    </item>
+    
+    <item>
+      <title>Migrating from WordPress to HUGO</title>
+      <link>/2017/05/01/migrating-from-wordpress-to-hugo/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/05/01/migrating-from-wordpress-to-hugo/</guid>
+      <description>Few years ago I started blogging, mainly to collect notes and interesting experiments for my PhD. I used wordpress and I found it very convenient at that time. Nowdays, using R for just about everything, I could not resist to the temptation of making my own blog using blogdown and HUGO. However I did not want to maintain two blogs so I had to:
+ export my wordpress content convert this content to markdown set up a hugo blog   Export wordpress content I started googling &amp;lsquo;how to migrate from wordpress to markdown&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Make your own blog</title>
+      <link>/talk/2017-04-26-rladies_blog/</link>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017-04-26-rladies_blog/</guid>
+      <description>On 26th April 2017 I ran a workshop on &amp;ldquo;Making your own blog&amp;rdquo; for one of the community events organised by R-Ladies London (London, United Kingdom). All the attendees were very interested and participative, it was a great evening!
+Slides are available here.
+For more information visit the R-Ladies website.</description>
+    </item>
+    
+    <item>
+      <title>Analysis of geospatial data using R</title>
+      <link>/talk/2017-03-22-bul/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017-03-22-bul/</guid>
+      <description>On the 22nd March 2017 Julia Wagemann and I gave a guest lecture/workshop on the topic &amp;ldquo;Analysis of geospatial data using R&amp;rdquo; for the MSc module on &amp;ldquo;GIS and Data Analysis&amp;rdquo; at the Institute of Environment, Health and Societies, Department of Life Sciences of Brunel University London (Uxbridge, United Kingdom).
+We covered the following topics:
+ Intro to Data Science @ECMWF The air pollution challenge Geospatial data  selection, validation, aggregation, visualisation and publication.</description>
+    </item>
+    
+    <item>
+      <title>Data Science @ECMWF</title>
+      <link>/talk/2017-02-03-winds/</link>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017-02-03-winds/</guid>
+      <description>On 3rd February 2017 I was invited to talk on doing Data Science for the European Centre for Medium-range Weather Forecast for the Reading (United Kingdom) chapter of the Women in Data Science conference 2017. Slides are available here.</description>
+    </item>
+    
+    <item>
+      <title>ANYWHERE</title>
+      <link>/project/anywhere/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/anywhere/</guid>
+      <description>EnhANcing emergencY management and response to extreme WeatHER and climate Events (ANYWHERE) is funded within EU’s Horizon 2020 research and innovation programme (EC-HORIZON2020-PR700099-ANYWHERE).
+The challenge: Development of tools to support realtime coordination of the emergency response operations to face challenge of the extreme weather and climate events.
+Objectives: Employ the cutting edge innovative technologies to build a pan-europeans multi-hazard platform for faster analysis and anticipation of the risk prior the vent occurrence, improved coordination of the emergency actions and assist to raise the self-preparedness.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Ciao!
+My name is Claudia Vitolo, I&amp;rsquo;m Italian and I work as Scientist at the European Centre for Medium-range Weather Forecasts (ECMWF, Reading, United Kingdom) on natural hazard risk modelling. My work consists of developing tools and algorithms to facilitate the retrieval, modelling and visualisation of environmental data.
+I&amp;rsquo;m passionate about open knowledge/data/source projects and addicted to R (the statistical language). In my spare time I like to participate to hackatons, coding do-jos.</description>
+    </item>
+    
+    <item>
+      <title>Why and how open data and open APIs can improve research</title>
+      <link>/talk/2016-02-12-kcl/</link>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2016-02-12-kcl/</guid>
+      <description>On 12th February 2016 I was invited to give a talk on &amp;ldquo;Why and how open data and open APIs can improve research&amp;rdquo; for the Environmental Dynamics research group seminar series is organised at the Department of Geography of King&amp;rsquo;s College London (London, United Kingdom). The audience was made of students, researchers and academics, all interested and participative, which made the experience rather enjoyable for me. More information on this series of seminars is on the King&amp;rsquo;s geocomputation blog.</description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>/project/community/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/community/</guid>
+      <description>In my spare time I like to participate to hackatons, coding do-jos and I organise meetups in the data science field. Here is a list of community events I have contributed to:
+ R-Ladies (co-founder), a world-wide organization to promote gender diversity in the R community. R-Ladies London (co-organiser), the London chapter is very active with regular (~monthly) meetups are socials. More info on the R-Ladies London meetup page. Open Data Hack @ECMWF (co-organiser), the event was part of ECMWF&amp;rsquo;s Open Data Week and aimed to raise awareness of freely available data from ECMWF and the three Copernicus services Copernicus Climate Change Service (C3S), Copernicus Atmosphere Monitoring Service (CAMS) and Copernicus Emergency Management Service (CEMS).</description>
+    </item>
+    
+    <item>
+      <title>Open source/data repos</title>
+      <link>/project/open/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/open/</guid>
+      <description>I&amp;rsquo;m very passionate about open knowledge/data/source projects, most of my work is available from public repositories on GitHub.
+Here are (some of) my repositories:
+ rnrfa fuse cvitolo.github.io (the source code for this website). caliver, hosted on the ECMWF organisation. rdefra, hosted on the rOpenSci organisation. hddtools, hosted on the rOpenSci organisation. kehra, hosted on KehraProject, Brunel University London. kehraApp, hosted on KehraProject, Brunel University London. Work-in-progress:  amca curvenumber r_pure BigDataAnalytics    Here is the list of organisations I have contributed to:</description>
+    </item>
+    
+    <item>
+      <title>Ph.D.</title>
+      <link>/project/phd/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/phd/</guid>
+      <description>Between 2011 and 2015 I did a PhD in hydrology at Imperial College London (London, United Kingdom). My thesis is on Exploring Data Mining for Hydrological Modelling and it is available here.</description>
+    </item>
+    
+    <item>
+      <title>Improving access to geospatial Big Data in the hydrology domain</title>
+      <link>/talk/2015-11-18-rss/</link>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2015-11-18-rss/</guid>
+      <description>On 18th November 2015 I gave a talk on &amp;ldquo;Improving access to geospatial Big Data in the hydrology domain&amp;rdquo; for the &amp;ldquo;Big Data and Spatial Analytics&amp;rdquo; event organised by the Business and Industrial Section of the Royal Statistical Society (London, United Kingdom). It was a great opportunity to meet people interested in Big Data and geospatial analytics.
+I presented some of the work done for my PhD and the PURE project.</description>
+    </item>
+    
+    <item>
+      <title>FUSE model and parameters information</title>
+      <link>/2015/05/26/fuse-model-and-parameters-information/</link>
+      <pubDate>Tue, 26 May 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/2015/05/26/fuse-model-and-parameters-information/</guid>
+      <description>A quick post to show how to find what model building decisions, options (name and ID number) and depending parameters are associated with a given FUSE model.
+First of all, install/load the fuse package:
+devtools::install_github(&amp;quot;cvitolo/fuse&amp;quot;) library(fuse)  Choose one of FUSE&amp;rsquo;s models (e.g. TOPMODEL which corresponds to mid = 60)and run the function fuseInfo using mid as input:
+fuseInfo(mid = 60)  The result of FUSEinfo is a dataframe containing 32 columns.</description>
+    </item>
+    
+    <item>
+      <title>Generate a Latin Hypercube of parameters for a given FUSE model</title>
+      <link>/2015/05/26/generate-a-latin-hypercube-of-parameters-for-a-given-fuse-model/</link>
+      <pubDate>Tue, 26 May 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/2015/05/26/generate-a-latin-hypercube-of-parameters-for-a-given-fuse-model/</guid>
+      <description>In the previous post I showed how to get information regarding model building options and used parameters for a given FUSE model. In this post I&amp;rsquo;ll show how to sample (for the given model) a set of 100 parameters uniformly using the Latin Hypercube Sampling method.
+Each FUSE model uses different parameters therefore, in order to sample uniformly, we need to remove the unused parameters and then sample. Here is how I achieve this.</description>
+    </item>
+    
+    <item>
+      <title>The TextInFooter macro</title>
+      <link>/2015/05/11/the-textinfooter-macro/</link>
+      <pubDate>Mon, 11 May 2015 12:08:05 +0000</pubDate>
+      
+      <guid>/2015/05/11/the-textinfooter-macro/</guid>
+      <description>This post is for my friend Sue and all the people that use Microsoft Word and want to add to the footer of their documents a reminder to the file location and the timestamp when the document was last saved. This can be achieved using a small VBA macro, and here is how to do it. 
+Copy the content in the box below
+Sub FileSaveAs() Dialogs(wdDialogFileSaveAs).Show Dim i As Long Dim ThisPath As String Dim pName As String Dim TextInFooter As String Dim FullName As String ThisPath = ActiveDocument.</description>
+    </item>
+    
+    <item>
+      <title>Split long time series into (hydrological) years in R</title>
+      <link>/2014/11/30/split-long-time-series-into-hydrological-years-in-r/</link>
+      <pubDate>Sun, 30 Nov 2014 18:17:51 +0000</pubDate>
+      
+      <guid>/2014/11/30/split-long-time-series-into-hydrological-years-in-r/</guid>
+      <description>I have been recently working on a rather basic task: splitting long time series into years. Although this might sound trivial for calendar years, I had to think a bit to find a relatively elegant solution for hydrological years. Below is what I came up with, however if you are aware of a better way, please leave a comment!
+For this exercise, we need to load only one library:
+# Load library library(xts)  Let&amp;rsquo;s generate a dummy time series:</description>
+    </item>
+    
+    <item>
+      <title>The new hddtools, an R package for Hydrological Data Discovery</title>
+      <link>/2014/07/30/the-new-hddtools-an-r-package-for-hydrological-data-discovery/</link>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/07/30/the-new-hddtools-an-r-package-for-hydrological-data-discovery/</guid>
+      <description>The R package hddtools is an open source project designed to facilitate non programmatic access to on-line data sources. This typically implies the download of a metadata catalogue, selection of information needed, formal request for dataset(s), de-compression, conversion, manual filtering and parsing. All those operation are made more efficient by re-usable functions.
+Depending on the data license, functions can provide offline and/or on-line modes. When redistribution is allowed, for instance, a copy of the dataset is cached within the package and updated twice a year.</description>
+    </item>
+    
+    <item>
+      <title>The new FUSE implementation is now 145 times faster!</title>
+      <link>/2014/07/29/the-new-fuse-implementation-is-now-145-times-faster/</link>
+      <pubDate>Tue, 29 Jul 2014 12:38:48 +0000</pubDate>
+      
+      <guid>/2014/07/29/the-new-fuse-implementation-is-now-145-times-faster/</guid>
+      <description>Four of my previous posts were about the fuse implementation in RHydro. Since I published them I received many emails and requests for more info. It is clear the topic is of interest for many. I thought I would post a short note on a new FUSE implementation which is now available as a separate package called &amp;ldquo;fuse&amp;rdquo; on GitHub.
+# install/load dependent libraries if&amp;lt;/span&amp;gt;(&amp;lt;span class=&amp;quot;pl-k&amp;quot;&amp;gt;!&amp;lt;/span&amp;gt;require(&amp;lt;span class=&amp;quot;pl-vo&amp;quot;&amp;gt;zoo&amp;lt;/span&amp;gt;)) install.packages(&amp;lt;span class=&amp;quot;pl-s1&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;pl-pds&amp;quot;&amp;gt;&amp;quot;&amp;lt;/span&amp;gt;zoo&amp;lt;span class=&amp;quot;pl-pds&amp;quot;&amp;gt;&amp;quot;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;) library(&amp;lt;span class=&amp;quot;pl-vo&amp;quot;&amp;gt;zoo&amp;lt;/span&amp;gt;) &amp;lt;span class=&amp;quot;pl-k&amp;quot;&amp;gt;if&amp;lt;/span&amp;gt;(&amp;lt;span class=&amp;quot;pl-k&amp;quot;&amp;gt;!</description>
+    </item>
+    
+    <item>
+      <title>FUSE model in RHydro package (part 4: HydroMAD compatibility)</title>
+      <link>/2014/07/25/fuse-model-in-rhydro-package-part-4-hydromad-compatibility/</link>
+      <pubDate>Fri, 25 Jul 2014 12:51:37 +0000</pubDate>
+      
+      <guid>/2014/07/25/fuse-model-in-rhydro-package-part-4-hydromad-compatibility/</guid>
+      <description>This is the fourth of a series of tutorials on the FUSE implementation within the RHydro package. The script for this tutorial is available here. If you are interested in following the discussion related to this post and see how it evolves, join the R4Hydrology community on Google+!
+If you want to know what FUSE is, how to prepare your data and run a simple simulation go to the first post of the series, for a basic calibration example (using 1 model structure) go to the second post, while for an example of multi-model calibration got to the third post.</description>
+    </item>
+    
+    <item>
+      <title>FUSE model in RHydro package (part 3: ensemble)</title>
+      <link>/2014/07/18/fuse-model-in-rhydro-package-part-3-ensemble/</link>
+      <pubDate>Fri, 18 Jul 2014 12:34:23 +0000</pubDate>
+      
+      <guid>/2014/07/18/fuse-model-in-rhydro-package-part-3-ensemble/</guid>
+      <description>This is the third of a series of tutorials on the FUSE implementation within the RHydro package. The script for this tutorial is available here. If you are interested in following the discussion related to this post and see how it evolves, join the R4Hydrology community on Google+!
+If you want to know what FUSE is, how to prepare your data and run a simple simulation go to the first post of the series, while for a basic calibration example (using 1 model structure) go to the second post.</description>
+    </item>
+    
+    <item>
+      <title>FUSE model in RHydro package (part 2: calibration)</title>
+      <link>/2014/07/17/fuse-model-in-rhydro-package-part-2-calibration/</link>
+      <pubDate>Thu, 17 Jul 2014 08:17:12 +0000</pubDate>
+      
+      <guid>/2014/07/17/fuse-model-in-rhydro-package-part-2-calibration/</guid>
+      <description>This is the second of a series of tutorials on the FUSE implementation within the RHydro package. The script for this tutorial is available here. If you are interested in following the discussion related to this post and see how it evolves, join the R4Hydrology community on Google+!
+If you want to know what FUSE is, how to prepare your data and run a simple simulation go to my previous post.</description>
+    </item>
+    
+    <item>
+      <title>FUSE model in RHydro package (part 1: simple simulation)</title>
+      <link>/2014/07/16/fuse-model-in-rhydro-package-part-1-simple-simulation/</link>
+      <pubDate>Wed, 16 Jul 2014 15:56:51 +0000</pubDate>
+      
+      <guid>/2014/07/16/fuse-model-in-rhydro-package-part-1-simple-simulation/</guid>
+      <description>This is the first of a series of tutorials on the FUSE implementation within the RHydro package. The script for this tutorial is available here. If you are interested in following the discussion related to this post and see how it evolves, join the R4Hydrology community on Google+!
+What&amp;rsquo;s FUSE? FUSE is an ensemble of numerous conceptual rainfall-runoff models developed byClark et al. (2008) and used to simulate the streamflow discharge for a river catchment when areal averaged time series of precipitation (plus snowmelt) and evapotranspiration are available.</description>
+    </item>
+    
+    <item>
+      <title>High Performance Computing Service - Part 3: Transfer your files</title>
+      <link>/2013/07/03/high-performance-computing-service---part-3-transfer-your-files/</link>
+      <pubDate>Wed, 03 Jul 2013 15:26:04 +0000</pubDate>
+      
+      <guid>/2013/07/03/high-performance-computing-service---part-3-transfer-your-files/</guid>
+      <description>At this stage, all the files are ready.
+Now, let&amp;rsquo;s organize the stores adding subdirectories then transfer the files from my desktop computer to the HPC server.
+ ON THE HPC: I have organized the stores in this way:  mkdir $HOME/R #for custom library mkdir $HOME/scripts mkdir $HOME/R/scripts/r #for my R scripts mkdir $WORK/inputs mkdir $WORK/outputs mkdir $WORK/outputs/Rdata mkdir $WORK/outputs/Rout   FROM MY DESKTOP: transfer the files created in Part 2 to the HPC server.</description>
+    </item>
+    
+    <item>
+      <title>High Performance Computing Service - Part 2: Get your files ready</title>
+      <link>/2013/07/02/high-performance-computing-service---part-2-get-your-files-ready/</link>
+      <pubDate>Tue, 02 Jul 2013 15:22:41 +0000</pubDate>
+      
+      <guid>/2013/07/02/high-performance-computing-service---part-2-get-your-files-ready/</guid>
+      <description>To use the HPC service I need:
+ input files (e.g. data.rda) some routines (e.g. myroutine1.R, myroutine2.R, myroutine3.R) a batch script  The input files are:
+ data_C1.rda data_C2.rda data_C3.rda  Each of the above contains the following objects:
+ Classes of Topographic Index (topidxclasses), Delay function (delay), Precipitation time series (rain), Evapotranspiration time series (ET0), Observed streamflow discharge time series (Qobs).  For more info on the above input files, read help file of topmodel package (?</description>
+    </item>
+    
+    <item>
+      <title>SSH without password</title>
+      <link>/2012/09/14/ssh-without-password/</link>
+      <pubDate>Fri, 14 Sep 2012 08:23:41 +0000</pubDate>
+      
+      <guid>/2012/09/14/ssh-without-password/</guid>
+      <description>Bored of typing a password to access your remote desktop? Use a key!
+Let&amp;rsquo;s say you are user1 and are using machineA.
+You want to access machineB as user2.
+Generate key pairs:
+user1@machineA:~&amp;gt;ssh-keygen -t rsa user1@machineA:~&amp;gt; ssh user2@machineB mkdir -p .ssh enter user2@machineB&#39;s password: user1@machineA:~&amp;gt; cat .ssh/id_rsa.pub | ssh user2@machineB &#39;cat &amp;gt;&amp;gt; .ssh/authorized_keys&#39;  If the ssh port is not the standard 22 and you use ip address rather than hostname</description>
+    </item>
+    
+    <item>
+      <title>Set up and test PyWPS using curl</title>
+      <link>/2012/09/13/set-up-and-test-pywps-using-curl/</link>
+      <pubDate>Thu, 13 Sep 2012 08:27:48 +0000</pubDate>
+      
+      <guid>/2012/09/13/set-up-and-test-pywps-using-curl/</guid>
+      <description> Install curl to test the service from terminal.
+&amp;lt;code&amp;gt;sudo aptitude install libcurl3 &amp;lt;/code&amp;gt;  Here are some example requests (from terminal):  curl &amp;quot;http://localhost/pywps/pywps.cgi?service=wps&amp;amp;version=1.0.0&amp;amp;request=getcapabilities&amp;quot; curl &amp;quot;http://localhost/pywps/pywps.cgi?service=wps&amp;amp;version=1.0.0&amp;amp;request=describeprocess &amp;amp;identifier=dummyprocess&amp;quot; curl &amp;quot;http://localhost/pywps/pywps.cgi?service=wps&amp;amp;version=1.0.0&amp;amp;request=execute &amp;amp;identifier=dummyprocess&amp;amp;datainputs=\[input1=10;input2=10\]&amp;quot;  </description>
+    </item>
+    
+    <item>
+      <title>High Performance Computing Service - Part 1: Intro</title>
+      <link>/2012/07/19/high-performance-computing-service---part-1-intro/</link>
+      <pubDate>Thu, 19 Jul 2012 17:07:25 +0000</pubDate>
+      
+      <guid>/2012/07/19/high-performance-computing-service---part-1-intro/</guid>
+      <description>Imperial College London, as many other universities, provides an excellent High Performance Computing Service for its staff and students.
+It&amp;rsquo;s like a private cloud, with thousands of processors, which allows you to run highly demanding computational jobs. HPC service is particularly suitable for code which can be parallelised. There are many modules and libraries installed and you can use your own routines if written in a common programming/scripting language. For instance I used my R code.</description>
+    </item>
+    
+    <item>
+      <title>Rd-files error: non-ASCII input and no declared encoding</title>
+      <link>/2012/07/10/rd-files-error-non-ascii-input-and-no-declared-encoding/</link>
+      <pubDate>Tue, 10 Jul 2012 15:00:24 +0000</pubDate>
+      
+      <guid>/2012/07/10/rd-files-error-non-ascii-input-and-no-declared-encoding/</guid>
+      <description>This error has been annoying me for a while now&amp;hellip;and here is the simplest solution ever!.
+In R, type:
+tools::showNonASCII(readLines(&amp;quot;path/filename&amp;quot;))  </description>
+    </item>
+    
+    <item>
+      <title>R CMD check tells me &#39;no visible binding for global variable&#39;</title>
+      <link>/2012/07/09/r-cmd-check-tells-me-no-visible-binding-for-global-variable/</link>
+      <pubDate>Mon, 09 Jul 2012 15:56:11 +0000</pubDate>
+      
+      <guid>/2012/07/09/r-cmd-check-tells-me-no-visible-binding-for-global-variable/</guid>
+      <description>Today is definitely a lucky day!
+Here is the solution to avoid the NOTE &amp;lsquo;no visible binding for global variable&amp;rsquo; when running R CMD check.
+Basically just add to the DESCRIPTION file of your package the following line (for instance after defining the license)
+LazyData: yes  and add a line in the routine which calls the data.frame
+e.g.
+DATA P &amp;lt;- DATA[,&amp;quot;P&amp;quot;] E &amp;lt;- DATA[,&amp;quot;E&amp;quot;]  In my case, that made the package checker happy!</description>
+    </item>
+    
+    <item>
+      <title>Writing tables into a PostgreSQL database using R</title>
+      <link>/2012/07/07/writing-tables-into-a-postgresql-database-using-r/</link>
+      <pubDate>Sat, 07 Jul 2012 20:14:29 +0000</pubDate>
+      
+      <guid>/2012/07/07/writing-tables-into-a-postgresql-database-using-r/</guid>
+      <description>If you are using a PostgreSQL database to store your data and R to process it, then you may want to access and edit your DB directly from R.
+This is possible using a package called &amp;ldquo;RPostgreSQL&amp;rdquo; available from CRAN.
+Start R in a console:
+R  Then install and load the RPostgreSQL library:
+install.packages(&amp;quot;RPostgreSQL&amp;quot;) library(&amp;quot;RPostgreSQL&amp;quot;)  Choose the driver
+drv &amp;lt;- dbDriver(&amp;quot;PostgreSQL&amp;quot;)  Connect to your database (I assume the database already exists on the localhost)</description>
+    </item>
+    
+    <item>
+      <title>Upgrade R</title>
+      <link>/2012/07/06/upgrade-r/</link>
+      <pubDate>Fri, 06 Jul 2012 20:10:47 +0000</pubDate>
+      
+      <guid>/2012/07/06/upgrade-r/</guid>
+      <description>I&amp;rsquo;m using Ubuntu Oneiric and R 2.13 (check your version using the command: lsb_release -a).
+Now I need to upgrade R to the latest version to be able to install the package lhs.
+In the file:
+sudo nano /etc/apt/sources.list  I added the line:
+deb http://cran.ma.imperial.ac.uk/bin/linux/ubuntu oneiric/  (here the complete list of cran mirrors)
+and saved it.
+Then in terminal:
+sudo apt-get update sudo apt-get install r-base sudo apt-get install r-base-dev  The first time you install a package in R 2.</description>
+    </item>
+    
+    <item>
+      <title>Remote access to AWS instance</title>
+      <link>/2012/07/05/remote-access-to-aws-instance/</link>
+      <pubDate>Thu, 05 Jul 2012 20:11:28 +0000</pubDate>
+      
+      <guid>/2012/07/05/remote-access-to-aws-instance/</guid>
+      <description>If you need help to set up an AWS instance, read my previous post.
+From the navigation menu of your Amazon EC2 console, click on INSTANCES.
+[caption id=&amp;ldquo;attachment_21&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] AWS Console[/caption]
+Tick the box to select the new instance and take a note of the web server&amp;rsquo;s address, e.g. ec2-00-000-00-000.eu-west-1.compute.amazonaws.com.
+[caption id=&amp;ldquo;attachment_22&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] Choose the instance[/caption]
+Now go to terminal and type (I assume you are familiar with Secure SHell):</description>
+    </item>
+    
+    <item>
+      <title>Set up an Amazon Web Service (AWS) Free Usage Tier</title>
+      <link>/2012/07/04/set-up-an-amazon-web-service-aws-free-usage-tier/</link>
+      <pubDate>Wed, 04 Jul 2012 20:02:46 +0000</pubDate>
+      
+      <guid>/2012/07/04/set-up-an-amazon-web-service-aws-free-usage-tier/</guid>
+      <description>Amazon allows you to use a computer in the cloud for free (for 1 year).
+To have a go, visit http://aws.amazon.com/free/ sign up then log in.
+This is your AWS Management Console:
+[caption id=&amp;ldquo;attachment_8&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] AWS Management Console[/caption]
+Click on EC2 and follow the instructions to launch a virtual server, also called Amazon Elastic Compute Cloud (Amazon EC2) instance.
+[caption id=&amp;ldquo;attachment_9&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] Create a new instance[/caption]
+Just to make things easier, choose the &amp;ldquo;Quick Launch Wizard&amp;rdquo;, choose a name for your instance and create a new key pair.</description>
+    </item>
+    
+    <item>
+      <title>R-Forge projects and the svn repository</title>
+      <link>/2012/07/03/r-forge-projects-and-the-svn-repository/</link>
+      <pubDate>Tue, 03 Jul 2012 20:15:25 +0000</pubDate>
+      
+      <guid>/2012/07/03/r-forge-projects-and-the-svn-repository/</guid>
+      <description>R projects available from R-Forge are version controlled using subversion (also known as svn). You can check out any repository using the &amp;ldquo;Anonymous Subversion Access&amp;rdquo;, in terminal:
+svn checkout svn://svn.r-forge.r-project.org/svnroot/projectname/  Each project may contain many packages (each in a separate folder).
+To install a package in R, go to terminal and type:
+cd ~/projectname/pkg R CMD check packagename  If there are no errors, you can install the package:</description>
+    </item>
+    
+  </channel>
+</rss>

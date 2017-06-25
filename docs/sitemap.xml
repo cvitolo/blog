@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/_header/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/05/01/migrating-from-wordpress-to-hugo/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2017-04-26-rladies_blog/</loc>
+    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2017-03-22-bul/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2017-02-03-winds/</loc>
+    <lastmod>2017-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/anywhere/</loc>
+    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2016-02-12-kcl/</loc>
+    <lastmod>2016-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/community/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/open/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/phd/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2015-11-18-rss/</loc>
+    <lastmod>2015-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015/05/26/fuse-model-and-parameters-information/</loc>
+    <lastmod>2015-05-26T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015/05/26/generate-a-latin-hypercube-of-parameters-for-a-given-fuse-model/</loc>
+    <lastmod>2015-05-26T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015/05/11/the-textinfooter-macro/</loc>
+    <lastmod>2015-05-11T12:08:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/11/30/split-long-time-series-into-hydrological-years-in-r/</loc>
+    <lastmod>2014-11-30T18:17:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/07/30/the-new-hddtools-an-r-package-for-hydrological-data-discovery/</loc>
+    <lastmod>2014-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/07/29/the-new-fuse-implementation-is-now-145-times-faster/</loc>
+    <lastmod>2014-07-29T12:38:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/07/25/fuse-model-in-rhydro-package-part-4-hydromad-compatibility/</loc>
+    <lastmod>2014-07-25T12:51:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/07/18/fuse-model-in-rhydro-package-part-3-ensemble/</loc>
+    <lastmod>2014-07-18T12:34:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/07/17/fuse-model-in-rhydro-package-part-2-calibration/</loc>
+    <lastmod>2014-07-17T08:17:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/07/16/fuse-model-in-rhydro-package-part-1-simple-simulation/</loc>
+    <lastmod>2014-07-16T15:56:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2013/07/03/high-performance-computing-service---part-3-transfer-your-files/</loc>
+    <lastmod>2013-07-03T15:26:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2013/07/02/high-performance-computing-service---part-2-get-your-files-ready/</loc>
+    <lastmod>2013-07-02T15:22:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/09/14/ssh-without-password/</loc>
+    <lastmod>2012-09-14T08:23:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/09/13/set-up-and-test-pywps-using-curl/</loc>
+    <lastmod>2012-09-13T08:27:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/07/19/high-performance-computing-service---part-1-intro/</loc>
+    <lastmod>2012-07-19T17:07:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/07/10/rd-files-error-non-ascii-input-and-no-declared-encoding/</loc>
+    <lastmod>2012-07-10T15:00:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/07/09/r-cmd-check-tells-me-no-visible-binding-for-global-variable/</loc>
+    <lastmod>2012-07-09T15:56:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/07/07/writing-tables-into-a-postgresql-database-using-r/</loc>
+    <lastmod>2012-07-07T20:14:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/07/06/upgrade-r/</loc>
+    <lastmod>2012-07-06T20:10:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/07/05/remote-access-to-aws-instance/</loc>
+    <lastmod>2012-07-05T20:11:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/07/04/set-up-an-amazon-web-service-aws-free-usage-tier/</loc>
+    <lastmod>2012-07-04T20:02:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2012/07/03/r-forge-projects-and-the-svn-repository/</loc>
+    <lastmod>2012-07-03T20:15:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/hugo/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/wordpress/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
